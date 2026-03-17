@@ -2,7 +2,6 @@
 title: "Reviving a Dream: The Rubygates Experiment"
 date: 2026-03-17
 ---
-
 # Reviving a Dream: The Rubygates Experiment
 
 Back in 2008, we embarked on an ambitious project: a massive multiplayer cooperative game, 
